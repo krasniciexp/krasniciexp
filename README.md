@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Web & AI | ASP.NET, Python | OpenAI, Payment Integration, Casino
+Web & AI | JavaScript, PHP, Python | Shopify, OpenAI, Payment Integration, Casino
 
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
